@@ -30,15 +30,20 @@ HTML5 / CSS3 / AJAX / Jsoup <br>
 ### 프로젝트 설계
 
 ##### ERD 설계
-!
+<p align="left">
+  <img src="https://github.com/msh45660/Semi_Project_AIM/assets/116853287/7210177f-685d-4e43-8c9c-c40d07ba16e3">
+</p>
 
 ****
 
 ### 설계한 기능
+A.I.M (All In Movie !) - 영화 예매 사이트 프로젝트에서 제가 구현한 부분입니다.
 
-!
-고객센터 CRUD 기능
-
+<details>
+  <summary>고객센터 CRUD 기능</summary>
+기본적인 CRUD 기능을 공지사항 작성에 적용했습니다.
+ 
+</details>
 !
 문의글 작성 / 삭제 / 문의글 답글
 
