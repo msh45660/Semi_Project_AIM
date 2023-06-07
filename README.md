@@ -37,7 +37,9 @@ HTML5 / CSS3 / AJAX / Jsoup <br>
 ****
 
 ### 설계한 기능
-A.I.M (All In Movie !) - 영화 예매 사이트 프로젝트에서 제가 구현한 부분입니다.
+A.I.M (All In Movie !) - 영화 예매 사이트 프로젝트에서 제가 구현한 기능입니다.
+1. 공지사항 CRUD 기능
+2. 문의 사항 작성, 리스트 출력, 답변 기능
 
 <details>
   <summary>고객센터 CRUD 기능</summary>
