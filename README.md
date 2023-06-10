@@ -41,16 +41,16 @@ A.I.M (All In Movie !) - 영화 예매 사이트 프로젝트에서 제가 구�
 1. 공지사항 CRUD 기능
 2. 문의 사항 작성, 문의 리스트 출력, 문의 답변 기능
 
-# 1.공지사항 CRUD 기능
+#### 1.공지사항 CRUD 기능
   
 기본적인 CRUD 기능을 공지사항 작성에 적용했습니다.
 
  
 
-# 2.문의 사항 작성, 문의 리스트 출력, 문의 답변 기능
+#### 2.문의 사항 작성, 문의 리스트 출력, 문의 답변 기능
   
 <br>
-1. 문의 사항 작성 - [코드확인](http://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/hp/boardhp.jsp)  
+1. 문의 사항 작성 - [코드확인](http://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/hp/boardhp.jsp/)  
 <p align="left">
   <img src="https://github.com/msh45660/Semi_Project_AIM/assets/116853287/f25e934f-bf02-4ab8-a2c6-4c839fae9e0a">
 </p>
