@@ -1,7 +1,7 @@
 # Semi_Project_AIM
 A.I.M (All In Movie !) - 영화 예매 사이트
 
-- 배포 주소 : [http://itwillbs11.cafe24.com/AIM/Main.aim](http://itwillbs11.cafe24.com/AIM/Main.aim/)
+- 배포 주소 : <http://itwillbs11.cafe24.com/AIM/Main.aim/>
 ****
 ## 목차
 1. 프로젝트 소개
