@@ -69,7 +69,6 @@ A.I.M (All In Movie !) - 영화 예매 사이트 프로젝트에서 제가 구�
 문의에 대한 답변이 달릴 경우 글 바로 아래에 답변 글이 생성됩니다.  
 <br>
 2-3. 문의 본인 확인 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/hp/hppwcheck.jsp)
-<br>
 <p align="left">
   <img src="https://github.com/msh45660/Semi_Project_AIM/assets/116853287/517443a9-47b1-4596-a992-4a8c9f26a74e">
 </p>
