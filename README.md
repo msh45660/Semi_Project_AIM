@@ -74,14 +74,7 @@ A.I.M (All In Movie !) - 영화 예매 사이트 프로젝트에서 제가 구�
 <br>
 1-3. 문의 본인 확인 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/hp/hppwcheck.jsp)
 <br>
-<p align="left">
-  <img src="https://github.com/msh45660/Semi_Project_AIM/assets/116853287/517443a9-47b1-4596-a992-4a8c9f26a74e">
-</p>
-<br>
-문의 목록에서 문의 사항 클릭시 admin 또는 본인 비밀번호를 입력할 시 열람 가능
-<br>
-<br>
-<br>
+
 
 
 
