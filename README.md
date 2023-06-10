@@ -50,7 +50,7 @@ A.I.M (All In Movie !) - 영화 예매 사이트 프로젝트에서 제가 구�
 #### 2.문의 사항 작성, 문의 리스트 출력, 문의 답변 기능
   
 <br>
-1. 문의 사항 작성 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/hp/boardhp.jsp)
+1-1. 문의 사항 작성 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/hp/boardhp.jsp)
 <br>
 <p align="left">
   <img src="https://github.com/msh45660/Semi_Project_AIM/assets/116853287/f25e934f-bf02-4ab8-a2c6-4c839fae9e0a">
@@ -59,7 +59,7 @@ A.I.M (All In Movie !) - 영화 예매 사이트 프로젝트에서 제가 구�
 문의 사항 작성을 위한 페이지 입니다.  
 <br>
  
-2. 문의 리스트 출력 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/hp/myhplist.jsp)
+1-2. 문의 리스트 출력 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/hp/myhplist.jsp)
 <p align="left">
   <img src="https://github.com/msh45660/Semi_Project_AIM/assets/116853287/772f4f13-108a-4126-9137-ce3d1244c720">
 </p>
