@@ -68,12 +68,6 @@ A.I.M (All In Movie !) - 영화 예매 사이트 프로젝트에서 제가 구�
 <p align="left">
   <img src="https://github.com/msh45660/Semi_Project_AIM/assets/116853287/874892f5-6967-4613-9b0a-2895f3f15236">
 </p>
-문의에 대한 답변이 달릴 경우 글 바로 아래에 답변 글이 생성됩니다.  
-<br>
-<br>
-<br>
-1-3. 문의 본인 확인 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/hp/hppwcheck.jsp)
-<br>
 
 
 
