@@ -88,18 +88,15 @@ A.I.M (All In Movie !) - 영화 예매 사이트 프로젝트에서 제가 구�
 </p>
 문의에 대한 답변이 달릴 경우 글 바로 아래에 답변 글이 생성됩니다.  
 <br>
-<br>
 
 ### 2-3 문의 상세 내용 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/hp/myhpcontent.jsp)
-<p align="left" height="50%" width="50%">
-  <img src="https://github.com/msh45660/Semi_Project_AIM/assets/116853287/4800406a-9650-4268-bf86-da570e882341">
+<p align="left">
+  <img src="https://github.com/msh45660/Semi_Project_AIM/assets/116853287/5cda7b62-b5e6-4a15-88f9-1ae6efc283e1">
 </p>
 <br>
-문의한 내용을 볼 수 있으며, 수정,삭제 의 기능을 수행할 수 있습니다.<br>
-<p align="left">
-  <img src="https://github.com/msh45660/Semi_Project_AIM/assets/116853287/ddb015be-ee1c-49e6-b48b-6e63c0937316">
-</p>
-관리자 계정일 경우 기존 수정,삭제 기능외에 문의 답변 기능을 통해 답변을 남길 수 있습니다.<br>
+관리자 계정일 경우(좌측사진) 기존 수정,삭제 기능외에 문의 답변 기능을 통해 답변을 남길 수 있습니다.<br>
+사용자의 경우 문의한 내용(우측사진)만 볼 수 있으며, 문의내용의 수정,삭제 기능을 수행할 수 있습니다.<br>
+
 
 ### 2-4. 문의 본인 확인 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/hp/hppwcheck.jsp)
 <p align="left">
