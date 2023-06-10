@@ -56,7 +56,8 @@ A.I.M (All In Movie !) - 영화 예매 사이트 프로젝트에서 제가 구�
 <br>
 문의 사항 작성을 위한 페이지 입니다.
 <br>
- 
+<br>
+<br>
 1-2. 문의 리스트 출력 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/hp/myhplist.jsp)
 <p align="left">
   <img src="https://github.com/msh45660/Semi_Project_AIM/assets/116853287/772f4f13-108a-4126-9137-ce3d1244c720">
@@ -67,7 +68,20 @@ A.I.M (All In Movie !) - 영화 예매 사이트 프로젝트에서 제가 구�
 <p align="left">
   <img src="https://github.com/msh45660/Semi_Project_AIM/assets/116853287/874892f5-6967-4613-9b0a-2895f3f15236">
 </p>
-답변이 달릴 경우 글 바로 아래에 답변 글이 생성됩니다.<br>  
+문의에 대한 답변이 달릴 경우 글 바로 아래에 답변 글이 생성됩니다.  
+<br>
+<br>
+<br>
+1-3. 문의 본인 확인 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/hp/hppwcheck.jsp)
+<br>
+<p align="left">
+  <img src="https://github.com/msh45660/Semi_Project_AIM/assets/116853287/517443a9-47b1-4596-a992-4a8c9f26a74e">
+</p>
+<br>
+문의 목록에서 문의 사항 클릭시 admin 또는 본인 비밀번호를 입력할 시 열람 가능
+<br>
+<br>
+<br>
 
 
 
