@@ -41,15 +41,15 @@ A.I.M (All In Movie !) - 영화 예매 사이트 프로젝트에서 제가 구�
 1. 공지사항 CRUD 기능
 2. 문의 사항 작성, 문의 리스트 출력, 문의 답변 기능
 
-### 1.공지사항 CRUD 기능
+## 1.공지사항 CRUD 기능
 <br>  
 기본적인 CRUD 기능을 공지사항 작성에 적용했습니다.
 
-#### 1-1. 공지사항 작성 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/notice/ntwrite.jsp)<br>
+### 1-1. 공지사항 작성 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/notice/ntwrite.jsp)<br>
 기본적인 공지사항을 작성 할 수 있습니다.
 <br>
 
-#### 1-2. 공지사항 상세 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/notice/ntcontent.jsp)
+### 1-2. 공지사항 상세 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/notice/ntcontent.jsp)
 <p align="left">
   <img src="https://github.com/msh45660/Semi_Project_AIM/assets/116853287/4a95c747-7672-48f5-bc2e-fa240c516b7d">
 </p>
@@ -57,7 +57,7 @@ A.I.M (All In Movie !) - 영화 예매 사이트 프로젝트에서 제가 구�
 공지사항 상세 보기를 했을 시 관리자ID로 조건을 주어<br>
 사용자는 상세내용과 목록 버튼만 출력되고 관리자는 수정,삭제 기능도 출력되도록 제어했습니다.
 
-#### 1-3. 공지사항 목록 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/notice/notice.jsp)
+### 1-3. 공지사항 목록 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/notice/notice.jsp)
 <p align="left">
   <img src="https://github.com/msh45660/Semi_Project_AIM/assets/116853287/000f0555-3fcb-45e2-9679-70e21e541822">
 </p>
@@ -65,9 +65,9 @@ A.I.M (All In Movie !) - 영화 예매 사이트 프로젝트에서 제가 구�
 공지사항 리스트를 출력합니다.<br>
 관리자ID로 조건을 주어 공지사항 올리기 라는 버튼의 제어를 했습니다.
 
-### 2.문의 사항 작성, 문의 리스트 출력, 문의 답변 기능 <br>
+## 2.문의 사항 작성, 문의 리스트 출력, 문의 답변 기능 <br>
 
-#### 2-1. 문의 사항 작성 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/hp/boardhp.jsp)
+### 2-1. 문의 사항 작성 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/hp/boardhp.jsp)
 <p align="left">
   <img src="https://github.com/msh45660/Semi_Project_AIM/assets/116853287/f25e934f-bf02-4ab8-a2c6-4c839fae9e0a">
 </p>
@@ -76,7 +76,7 @@ A.I.M (All In Movie !) - 영화 예매 사이트 프로젝트에서 제가 구�
 <br>
 <br>
 
-#### 2-2. 문의 리스트 출력 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/hp/myhplist.jsp)
+### 2-2. 문의 리스트 출력 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/hp/myhplist.jsp)
 <p align="left">
   <img src="https://github.com/msh45660/Semi_Project_AIM/assets/116853287/772f4f13-108a-4126-9137-ce3d1244c720">
 </p>
@@ -90,7 +90,7 @@ A.I.M (All In Movie !) - 영화 예매 사이트 프로젝트에서 제가 구�
 <br>
 <br>
 
-#### 2-3 문의 상세 내용 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/hp/myhpcontent.jsp)
+### 2-3 문의 상세 내용 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/hp/myhpcontent.jsp)
 <p align="left">
   <img src="https://github.com/msh45660/Semi_Project_AIM/assets/116853287/4800406a-9650-4268-bf86-da570e882341">
 </p>
@@ -101,7 +101,7 @@ A.I.M (All In Movie !) - 영화 예매 사이트 프로젝트에서 제가 구�
 </p>
 관리자 계정일 경우 기존 수정,삭제 기능외에 문의 답변 기능을 통해 답변을 남길 수 있습니다.<br>
 
-#### 2-4. 문의 본인 확인 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/hp/hppwcheck.jsp)
+### 2-4. 문의 본인 확인 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/hp/hppwcheck.jsp)
 <p align="left">
   <img src="https://github.com/msh45660/Semi_Project_AIM/assets/116853287/517443a9-47b1-4596-a992-4a8c9f26a74e">
 </p>
