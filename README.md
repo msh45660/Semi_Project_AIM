@@ -91,7 +91,7 @@ A.I.M (All In Movie !) - 영화 예매 사이트 프로젝트에서 제가 구�
 <br>
 
 ### 2-3 문의 상세 내용 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/hp/myhpcontent.jsp)
-<p align="left">
+<p align="left" height="50%" width="50%">
   <img src="https://github.com/msh45660/Semi_Project_AIM/assets/116853287/4800406a-9650-4268-bf86-da570e882341">
 </p>
 <br>
