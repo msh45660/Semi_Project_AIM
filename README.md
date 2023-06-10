@@ -70,6 +70,19 @@ A.I.M (All In Movie !) - 영화 예매 사이트 프로젝트에서 제가 구�
 문의에 대한 답변이 달릴 경우 글 바로 아래에 답변 글이 생성됩니다.  
 <br>
 <br>
+#### 2-2. 문의 리스트 출력 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/hp/myhplist.jsp)
+<p align="left">
+  <img src="https://github.com/msh45660/Semi_Project_AIM/assets/116853287/772f4f13-108a-4126-9137-ce3d1244c720">
+</p>
+<br>
+문의한 내용들이 출력 됩니다.<br>
+<br>
+<p align="left">
+  <img src="https://github.com/msh45660/Semi_Project_AIM/assets/116853287/874892f5-6967-4613-9b0a-2895f3f15236">
+</p>
+문의에 대한 답변이 달릴 경우 글 바로 아래에 답변 글이 생성됩니다.  
+<br>
+<br>
 #### 2-3. 문의 본인 확인 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/hp/hppwcheck.jsp)
 <p align="left">
   <img src="https://github.com/msh45660/Semi_Project_AIM/assets/116853287/517443a9-47b1-4596-a992-4a8c9f26a74e">
