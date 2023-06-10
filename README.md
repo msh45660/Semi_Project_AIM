@@ -41,22 +41,23 @@ A.I.M (All In Movie !) - 영화 예매 사이트 프로젝트에서 제가 구�
 1. 공지사항 CRUD 기능
 2. 문의 사항 작성, 문의 리스트 출력, 문의 답변 기능
 
-#### 1.공지사항 CRUD 기능
+### 1.공지사항 CRUD 기능
   
 기본적인 CRUD 기능을 공지사항 작성에 적용했습니다.
 
  
 
-#### 2.문의 사항 작성, 문의 리스트 출력, 문의 답변 기능 <br>
+### 2.문의 사항 작성, 문의 리스트 출력, 문의 답변 기능 <br>
 
-2-1. 문의 사항 작성 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/hp/boardhp.jsp)
+#### 2-1. 문의 사항 작성 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/hp/boardhp.jsp)
 <p align="left">
   <img src="https://github.com/msh45660/Semi_Project_AIM/assets/116853287/f25e934f-bf02-4ab8-a2c6-4c839fae9e0a">
 </p>
 <br>
 문의 사항 작성을 위한 페이지 입니다.
 <br>
-2-2. 문의 리스트 출력 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/hp/myhplist.jsp)
+<br>
+#### 2-2. 문의 리스트 출력 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/hp/myhplist.jsp)
 <p align="left">
   <img src="https://github.com/msh45660/Semi_Project_AIM/assets/116853287/772f4f13-108a-4126-9137-ce3d1244c720">
 </p>
@@ -68,7 +69,8 @@ A.I.M (All In Movie !) - 영화 예매 사이트 프로젝트에서 제가 구�
 </p>
 문의에 대한 답변이 달릴 경우 글 바로 아래에 답변 글이 생성됩니다.  
 <br>
-2-3. 문의 본인 확인 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/hp/hppwcheck.jsp)
+<br>
+#### 2-3. 문의 본인 확인 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/hp/hppwcheck.jsp)
 <p align="left">
   <img src="https://github.com/msh45660/Semi_Project_AIM/assets/116853287/517443a9-47b1-4596-a992-4a8c9f26a74e">
 </p>
