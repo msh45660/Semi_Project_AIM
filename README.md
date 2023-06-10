@@ -45,7 +45,25 @@ A.I.M (All In Movie !) - 영화 예매 사이트 프로젝트에서 제가 구�
 <br>  
 기본적인 CRUD 기능을 공지사항 작성에 적용했습니다.
 
- 
+#### 1-1. 공지사항 작성 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/notice/ntwrite.jsp)<br>
+기본적인 공지사항을 작성 할 수 있습니다.
+<br>
+
+#### 1-2. 공지사항 상세 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/notice/ntcontent.jsp)
+<p align="left">
+  <img src="https://github.com/msh45660/Semi_Project_AIM/assets/116853287/4a95c747-7672-48f5-bc2e-fa240c516b7d">
+</p>
+<br>
+공지사항 상세 보기를 했을 시 관리자ID로 조건을 주어<br>
+사용자는 상세내용과 목록 버튼만 출력되고 관리자는 수정,삭제 기능도 출력되도록 제어했습니다.
+
+#### 1-3. 공지사항 목록 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/notice/notice.jsp)
+<p align="left">
+  <img src="https://github.com/msh45660/Semi_Project_AIM/assets/116853287/000f0555-3fcb-45e2-9679-70e21e541822">
+</p>
+<br>
+공지사항 리스트를 출력합니다.<br>
+관리자ID로 조건을 주어 공지사항 올리기 라는 버튼의 제어를 했습니다.
 
 ### 2.문의 사항 작성, 문의 리스트 출력, 문의 답변 기능 <br>
 
@@ -66,7 +84,7 @@ A.I.M (All In Movie !) - 영화 예매 사이트 프로젝트에서 제가 구�
 문의한 내용들이 출력 됩니다.<br>
 <br>
 <p align="left">
-  <img src="https://github.com/msh45660/Semi_Project_AIM/assets/116853287/874892f5-6967-4613-9b0a-2895f3f15236">
+  <img src="https://github.com/msh45660/Semi_Project_AIM/assets/116853287/c2483222-0b65-4600-8c60-d5e671671df6">
 </p>
 문의에 대한 답변이 달릴 경우 글 바로 아래에 답변 글이 생성됩니다.  
 <br>
@@ -74,11 +92,14 @@ A.I.M (All In Movie !) - 영화 예매 사이트 프로젝트에서 제가 구�
 
 #### 2-3 문의 상세 내용 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/hp/myhpcontent.jsp)
 <p align="left">
-  <img src="https://github.com/msh45660/Semi_Project_AIM/assets/116853287/ddb015be-ee1c-49e6-b48b-6e63c0937316">
+  <img src="https://github.com/msh45660/Semi_Project_AIM/assets/116853287/4800406a-9650-4268-bf86-da570e882341">
 </p>
 <br>
 문의한 내용을 볼 수 있으며, 수정,삭제 의 기능을 수행할 수 있습니다.<br>
-관리자 계정일 경우 기존 수정,삭제 기능외에 문의 답변 기능을 통해 답변을 남길 수 있습니다.
+<p align="left">
+  <img src="https://github.com/msh45660/Semi_Project_AIM/assets/116853287/ddb015be-ee1c-49e6-b48b-6e63c0937316">
+</p>
+관리자 계정일 경우 기존 수정,삭제 기능외에 문의 답변 기능을 통해 답변을 남길 수 있습니다.<br>
 
 #### 2-4. 문의 본인 확인 - [코드확인](https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/hp/hppwcheck.jsp)
 <p align="left">
