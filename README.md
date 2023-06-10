@@ -50,8 +50,11 @@ A.I.M (All In Movie !) - 영화 예매 사이트 프로젝트에서 제가 구�
 
 <details>
   <summary>문의 사항 작성, 리스트 출력, 답변 기능</summary>
-문의 사항 작성, 리스트 출력, 답변 기능
- 
+문의 사항 작성 - 코드확인[https://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/hp/boardhp.jsp]
+  
+  
+  , 리스트 출력, 답변 기능
+
 </details>
 
 
