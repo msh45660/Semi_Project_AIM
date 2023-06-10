@@ -43,6 +43,7 @@ A.I.M (All In Movie !) - 영화 예매 사이트 프로젝트에서 제가 구�
 
 <details>
   <summary>공지사항 CRUD 기능</summary>
+  
 기본적인 CRUD 기능을 공지사항 작성에 적용했습니다.
   코드확인
  
@@ -50,6 +51,7 @@ A.I.M (All In Movie !) - 영화 예매 사이트 프로젝트에서 제가 구�
 
 <details>
   <summary>문의 사항 작성, 문의 리스트 출력, 문의 답변 기능</summary>
+  
 <br>
 1. 문의 사항 작성 - [코드확인](http://github.com/msh45660/Semi_Project_AIM/blob/master/AIM/src/main/webapp/hp/boardhp.jsp/)  
 <p align="left">
